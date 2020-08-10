@@ -29,8 +29,7 @@
 --  the project number, the project name, and the number of employees who work on the project
 --  16: Retrieve for each project, the project number, the project name,
 --  and the number of employees from the 'administration' who work on the project
---  17: Retrive the total number of employees whose salaries exceed $32000 in each department which more than two employees
---  18: Create a view that contains the info about a project name, number of employees working on it, and total salary of them
+
 
 
 --|--------------------------------|--
