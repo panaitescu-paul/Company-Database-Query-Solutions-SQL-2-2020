@@ -1,4 +1,4 @@
-# SQL Queries - Company Database 2 - 2020
+# Company Database Query Solutions - SQL - 2 - 2020
 
 **SQL solutions for 34 Queries**, performed on the **Company Database**.
 
