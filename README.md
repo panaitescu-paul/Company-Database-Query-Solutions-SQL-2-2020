@@ -10,7 +10,12 @@
 ## Technologies:
 - SQL
 
-## Database Overview:
-<br/>
+## Tools:
+- MySQL Workbench
 
-![alt text](https://github.com/panaitescu-paul/SQL-Queries-Company-Database-2-2020/blob/master/screenshots/s1.png)
+## Database Overview:
+<p align="center">
+  <hr>
+  <img width="100%" height="100%" text-align="center" src="https://github.com/panaitescu-paul/Company-Database-Query-Solutions-SQL-2-2020/blob/master/screenshots/s1.png">
+  <hr>
+</p>
